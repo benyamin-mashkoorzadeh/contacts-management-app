@@ -1,4 +1,4 @@
-# Contacts Management (React Project)
+# Contacts Management
 
 A web application for managing contacts with full CRUD (Create, Read, Update, Delete) functionality. This project is built with **React** for the frontend and **Laravel** as the backend API to manage data efficiently.
 
