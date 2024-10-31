@@ -23,9 +23,9 @@ A web application for managing contacts with full CRUD (Create, Read, Update, De
 
 ## Installation
 
-### Backend (Laravel)
+### Frontend (React)
 
-1. Clone the repository and navigate to the backend directory:
+1. Clone the repository and navigate to the frontend directory:
    ```bash
-   git clone https://github.com/username/contacts-management-backend.git
-   cd contacts-management-backend
+   git clone https://github.com/benyamin-mashkoorzadeh/contacts-management-app.git
+   cd contacts-management-app
